@@ -33,7 +33,7 @@
     "lru-cache": "^4.1.1",
     "memory-fs": "^0.4.1",
     "next": "^3.2.1",
-    "node-fetch": "^1.7.2",
+    "node-fetch": "^3.2.10",
     "normalize.css": "^7.0.0",
     "opbeat": "^4.15.1",
     "package-build-stats": "^1.2.0",
